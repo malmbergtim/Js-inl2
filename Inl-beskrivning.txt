@@ -84,4 +84,7 @@ inputField.addEventListener("keyup", function(event){
 Sist av allt så hade vi en event listener som tog in varje input och körde dessa mot parametrarna inom findResult samt OM FindResult filtreringen var SANN så skulle denna köra funktionen createResultElement och därmed visa de rätta värdena på skärmen. Om FindResult filtreringen INTE stämde så skulle det helt enkelt console logga att det inte fanns några resultat och därmed inte heller visa några resultat. 
 
 
+Angående debugging så kan jag säga att jag kontinuerligt under detta projektet använde mig utav console.log() stötte till exempel på flera gånger att mina värden blev undefined.
+
+
 
